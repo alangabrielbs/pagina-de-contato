@@ -15,7 +15,7 @@
 
 ## 🖥️ Sobre o estudo
 
-Criei essa pagina para estudar a propriedade `:focus` e `:checked`
+Criei essa pagina para estudar as propriedades `:focus` e `:checked`
 
 A pagina é toda responsiva, para isso utilizei em conjunto o display `grid` e `flex`
 

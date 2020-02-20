@@ -3,6 +3,7 @@ import 'circular-std';
 
 export const Container = styled.div`
   margin-top: 100px;
+  padding-bottom: 60px;
   justify-self: center;
   width: 100%;
   max-width: 500px;
